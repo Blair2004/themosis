@@ -4,7 +4,7 @@
 // Paths
 /*----------------------------------------------------*/
 $rootPath = dirname(__DIR__);
-$webrootPath = $rootPath.DS.'htdocs';
+$webrootPath = $rootPath.DS.'public_html';
 
 /*----------------------------------------------------*/
 // Composer autoload
